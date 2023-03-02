@@ -5,8 +5,6 @@ Output: 321
 Input: x = -123
 Output: -321
 
-Input: x = 120
-Output: 21
 '''
 
 class Solution:
